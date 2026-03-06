@@ -1,4 +1,14 @@
 
+#Enunciado:
+#Desenvolva um programa que analise 3 valores inteiros e informe qual o maior e qual o menor deles.
+#Exemplo:
+#Entrada: num1 = 5, num2 = 2, num3 = 8
+#Saída esperada:
+#Maior: 8
+#Menor: 2
+
+
+
 num1 = int(input("Insira o primeiro número: "))
 num2 = int(input("Insira o segundo número: "))
 num3 = int(input("Insira o terceiro número: "))
