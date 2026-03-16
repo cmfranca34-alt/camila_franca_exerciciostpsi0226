@@ -1,0 +1,5 @@
+# Elabore um programa que escreve os primeiros 10.000 números inteiros no ecrã.
+
+for i in range (10001): 
+   
+        print(f"{i}")
